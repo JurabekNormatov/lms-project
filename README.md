@@ -28,6 +28,8 @@ Eigenprojekt zur Vertiefung von Java, JavaFX, JDBC und MySQL.
 ![Login](docs/screenshots/login.png)
 ![Benutzer](docs/screenshots/benutzer.png)
 ![Kurse](docs/screenshots/kurse.png)
+![Einschreibungen](docs/screenshots/einschreibungen.png)
+![Bewertungen](docs/screenshots/bewertungen.png)
 
 ## Setup
 
