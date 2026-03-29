@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# Log files
+*.log
+*.log.*
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# macOS system files
+.DS_Store
+
+# Environment variables (never commit secrets)
+.env
