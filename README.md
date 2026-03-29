@@ -33,16 +33,25 @@ Eigenprojekt zur Vertiefung von Java, JavaFX, JDBC und MySQL.
 
 ## Setup
 
-Voraussetzungen: Java 23, MySQL 8, Maven
+### Voraussetzungen
+- Java 23
+- MySQL 8
+- Maven
 
-Datenbank erstellen:
-  CREATE DATABASE lms_db;
+### Datenbank erstellen
+```sql
+CREATE DATABASE lms_db;
+```
 
-Umgebungsvariable setzen:
-  export DB_PASSWORD=dein_passwort
+### Umgebungsvariable setzen
+```bash
+export DB_PASSWORD=dein_passwort
+```
 
-Starten:
-  mvn javafx:run
+### Starten
+```bash
+mvn javafx:run
+```
 
 ## Autor
 
